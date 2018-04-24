@@ -1,0 +1,46 @@
+.fl{
+	float: left;
+}
+a{
+	font-size: 16px;
+}
+.mt10 {
+    margin-top: 10px;
+}
+.clear{
+	clear: both;
+}
+
+.name_left{
+	text-align: left;
+}
+.fr{
+	float: right;
+}
+.b_none{
+	border: none !important;
+}
+.help .help_main .help_right .zh {
+    width: inherit;
+}
+.help .help_main .help_right .zh .item .item_title {
+    width: inherit;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    padding-left: 30px;
+    border-bottom: #0f95f6 1px dashed;
+    color: #000;
+}
+.help .help_main .help_right .zh .item .item_content {
+    font-size: 12px;
+    padding-left: 30px;
+    line-height: 33px;
+    color: #1b1a1a;
+    border-bottom: 1px dashed rgb(15,118,193);
+    background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+}
+.help .help_main .help_right .zh .item .item_content p {
+    width: inherit;
+}
+
